@@ -1,0 +1,1407 @@
+fileFormatVersion: 2
+guid: 162d9281130768a4ab7a35ff9b5b9734
+timeCreated: 1479756547
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_0
+    21300002: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_1
+    21300004: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_2
+    21300006: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_3
+    21300008: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_4
+    21300010: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_5
+    21300012: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_6
+    21300014: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_7
+    21300016: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_8
+    21300018: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_9
+    21300020: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_10
+    21300022: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_11
+    21300024: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_12
+    21300026: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_13
+    21300028: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_14
+    21300030: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_15
+    21300032: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_16
+    21300034: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_17
+    21300036: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_18
+    21300038: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_19
+    21300040: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_20
+    21300042: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_21
+    21300044: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_22
+    21300046: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_23
+    21300048: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_24
+    21300050: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_25
+    21300052: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_26
+    21300054: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_27
+    21300056: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_28
+    21300058: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_29
+    21300060: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_30
+    21300062: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_31
+    21300064: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_32
+    21300066: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_33
+    21300068: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_34
+    21300070: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_35
+    21300072: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_36
+    21300074: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_37
+    21300076: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_38
+    21300078: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_39
+    21300080: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_40
+    21300082: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_41
+    21300084: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_42
+    21300086: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_43
+    21300088: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_44
+    21300090: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_45
+    21300092: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_46
+    21300094: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_47
+    21300096: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_48
+    21300098: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_49
+    21300100: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_50
+    21300102: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_51
+    21300104: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_52
+    21300106: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_53
+    21300108: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_54
+    21300110: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_55
+    21300112: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_56
+    21300114: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_57
+    21300116: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_58
+    21300118: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_59
+    21300120: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_60
+    21300122: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_61
+    21300124: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_62
+    21300126: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_63
+    21300128: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_64
+    21300130: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_65
+    21300132: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_66
+    21300134: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_67
+    21300136: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_68
+    21300138: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_69
+    21300140: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_70
+    21300142: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_71
+    21300144: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_72
+    21300146: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_73
+    21300148: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_74
+    21300150: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_75
+    21300152: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_76
+    21300154: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_77
+    21300156: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_78
+    21300158: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_79
+    21300160: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_80
+    21300162: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_81
+    21300164: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_82
+    21300166: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_83
+    21300168: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_84
+    21300170: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_85
+    21300172: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_86
+    21300174: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_87
+    21300176: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_88
+    21300178: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_89
+    21300180: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_90
+    21300182: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_91
+    21300184: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_92
+    21300186: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_93
+    21300188: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_94
+    21300190: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_95
+    21300192: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_96
+    21300194: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_97
+    21300196: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_98
+    21300198: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_99
+    21300200: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_100
+    21300202: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_101
+    21300204: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_102
+    21300206: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_103
+    21300208: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_104
+    21300210: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_105
+    21300212: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_106
+    21300214: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_107
+    21300216: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_108
+    21300218: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_109
+    21300220: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_110
+    21300222: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_111
+    21300224: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_112
+    21300226: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_113
+    21300228: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_114
+    21300230: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_115
+    21300232: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_116
+    21300234: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_117
+    21300236: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_118
+    21300238: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_119
+    21300240: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_120
+    21300242: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_121
+    21300244: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_122
+    21300246: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_123
+    21300248: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_124
+    21300250: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_125
+    21300252: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_126
+    21300254: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_127
+    21300256: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_128
+    21300258: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_129
+    21300260: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_130
+    21300262: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_131
+    21300264: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_132
+    21300266: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_133
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_rarity_8d_by_pix3m_radiantkitsune_by_dshou-d7y3myw_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

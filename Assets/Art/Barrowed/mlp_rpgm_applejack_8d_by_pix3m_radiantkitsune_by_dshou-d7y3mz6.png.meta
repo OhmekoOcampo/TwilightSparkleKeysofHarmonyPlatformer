@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 8c2f4059326cca04e95df1b42f28f8da
+timeCreated: 1479756692
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_0
+    21300002: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_1
+    21300004: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_2
+    21300006: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_3
+    21300008: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_4
+    21300010: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_5
+    21300012: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_6
+    21300014: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_7
+    21300016: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_8
+    21300018: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_9
+    21300020: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_10
+    21300022: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_11
+    21300024: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_12
+    21300026: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_13
+    21300028: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_14
+    21300030: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_15
+    21300032: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_16
+    21300034: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_17
+    21300036: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_18
+    21300038: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_19
+    21300040: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_20
+    21300042: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_21
+    21300044: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_22
+    21300046: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_23
+    21300048: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_24
+    21300050: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_25
+    21300052: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_26
+    21300054: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_27
+    21300056: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_28
+    21300058: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_29
+    21300060: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_30
+    21300062: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_31
+    21300064: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_32
+    21300066: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_33
+    21300068: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_34
+    21300070: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_35
+    21300072: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_36
+    21300074: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_37
+    21300076: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_38
+    21300078: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_39
+    21300080: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_40
+    21300082: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_41
+    21300084: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_42
+    21300086: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_43
+    21300088: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_44
+    21300090: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_45
+    21300092: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_46
+    21300094: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_47
+    21300096: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_48
+    21300098: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_49
+    21300100: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_50
+    21300102: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_51
+    21300104: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_52
+    21300106: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_53
+    21300108: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_54
+    21300110: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_55
+    21300112: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_56
+    21300114: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_57
+    21300116: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_58
+    21300118: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_59
+    21300120: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_60
+    21300122: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_61
+    21300124: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_62
+    21300126: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_63
+    21300128: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_64
+    21300130: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_65
+    21300132: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_66
+    21300134: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_67
+    21300136: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_68
+    21300138: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_69
+    21300140: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_70
+    21300142: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_71
+    21300144: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_72
+    21300146: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_73
+    21300148: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_74
+    21300150: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_75
+    21300152: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_76
+    21300154: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_77
+    21300156: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_78
+    21300158: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_79
+    21300160: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_80
+    21300162: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_81
+    21300164: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_82
+    21300166: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_83
+    21300168: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_84
+    21300170: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_85
+    21300172: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_86
+    21300174: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_87
+    21300176: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_88
+    21300178: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_89
+    21300180: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_90
+    21300182: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_91
+    21300184: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_92
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_applejack_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mz6_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

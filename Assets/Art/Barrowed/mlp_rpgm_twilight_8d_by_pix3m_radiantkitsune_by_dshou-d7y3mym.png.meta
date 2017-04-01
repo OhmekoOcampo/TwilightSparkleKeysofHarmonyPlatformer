@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: e897a8e190d22ad43bcc5f1b7e96d48b
+timeCreated: 1479756469
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_0
+    21300002: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_1
+    21300004: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_2
+    21300006: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_3
+    21300008: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_4
+    21300010: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_5
+    21300012: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_6
+    21300014: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_7
+    21300016: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_8
+    21300018: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_9
+    21300020: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_10
+    21300022: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_11
+    21300024: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_12
+    21300026: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_13
+    21300028: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_14
+    21300030: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_15
+    21300032: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_16
+    21300034: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_17
+    21300036: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_18
+    21300038: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_19
+    21300040: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_20
+    21300042: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_21
+    21300044: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_22
+    21300046: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_23
+    21300048: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_24
+    21300050: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_25
+    21300052: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_26
+    21300054: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_27
+    21300056: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_28
+    21300058: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_29
+    21300060: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_30
+    21300062: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_31
+    21300064: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_32
+    21300066: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_33
+    21300068: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_34
+    21300070: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_35
+    21300072: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_36
+    21300074: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_37
+    21300076: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_38
+    21300078: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_39
+    21300080: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_40
+    21300082: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_41
+    21300084: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_42
+    21300086: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_43
+    21300088: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_44
+    21300090: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_45
+    21300092: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_46
+    21300094: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_47
+    21300096: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_48
+    21300098: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_49
+    21300100: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_50
+    21300102: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_51
+    21300104: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_52
+    21300106: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_53
+    21300108: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_54
+    21300110: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_55
+    21300112: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_56
+    21300114: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_57
+    21300116: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_58
+    21300118: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_59
+    21300120: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_60
+    21300122: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_61
+    21300124: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_62
+    21300126: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_63
+    21300128: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_64
+    21300130: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_65
+    21300132: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_66
+    21300134: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_67
+    21300136: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_68
+    21300138: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_69
+    21300140: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_70
+    21300142: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_71
+    21300144: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_72
+    21300146: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_73
+    21300148: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_74
+    21300150: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_75
+    21300152: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_76
+    21300154: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_77
+    21300156: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_78
+    21300158: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_79
+    21300160: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_80
+    21300162: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_81
+    21300164: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_82
+    21300166: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_83
+    21300168: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_84
+    21300170: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_85
+    21300172: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_86
+    21300174: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_87
+    21300176: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_88
+    21300178: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_89
+    21300180: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_90
+    21300182: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_91
+    21300184: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_92
+    21300186: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_93
+    21300188: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_94
+    21300190: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_95
+    21300192: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_96
+    21300194: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_97
+    21300196: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_98
+    21300198: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_99
+    21300200: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_100
+    21300202: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_101
+    21300204: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_102
+    21300206: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_103
+    21300208: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_104
+    21300210: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_105
+    21300212: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_106
+    21300214: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_107
+    21300216: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_108
+    21300218: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_109
+    21300220: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_110
+    21300222: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_111
+    21300224: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_112
+    21300226: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_113
+    21300228: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_114
+    21300230: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_115
+    21300232: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_116
+    21300234: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_117
+    21300236: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_118
+    21300238: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_119
+    21300240: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_120
+    21300242: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_121
+    21300244: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_122
+    21300246: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_123
+    21300248: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_124
+    21300250: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_125
+    21300252: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_126
+    21300254: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_127
+    21300256: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_128
+    21300258: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_129
+    21300260: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_130
+    21300262: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_131
+    21300264: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_132
+    21300266: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_133
+    21300268: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_134
+    21300270: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_135
+    21300272: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_136
+    21300274: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_137
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mlp_rpgm_twilight_8d_by_pix3m_radiantkitsune_by_dshou-d7y3mym_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
